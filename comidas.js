@@ -1,3 +1,3 @@
-let comidaFavoritaJavier = [ 'hamburguesa', 'pizza' , 'milanesa', 'helado'];
+let comidaFavoritaJavier = [ 'hamburguesa', 'pizza' , 'milanesa', 'helado', 'sushi'];
 
 console.log(comidaFavoritaJavier)
